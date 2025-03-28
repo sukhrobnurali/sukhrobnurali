@@ -1,30 +1,38 @@
-<h1 align="center">Backend Developer | PHP & Laravel Specialist</h1>
+Mana, README'ni MERN stack mutaxassisligiga moslab to‘g‘riladim:  
+
+---
+
+# Fullstack Developer | MERN Specialist  
 
 <p align="center">
-  <strong>Building Scalable, High-Performance, and Secure Backend Systems</strong><br>
-  Specializing in API Development, Database Optimization, and Backend Architecture
-</p>
+  <strong>Building Scalable, High-Performance, and Secure Web Applications</strong><br>
+  Specializing in React, Node.js, Express, and MongoDB
+</p>  
 
----
+---  
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-👋 Hi, I'm **Sukhrob**, a **Backend Developer** with **5+ years of experience** in designing, building, and optimizing backend systems using **PHP, Laravel, and modern architectures**.  
+👋 Hi, I'm **Zafar**, a **Fullstack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js).  
 
-I specialize in:  
-✔️ **Building and scaling backend applications** for high-performance and reliability.  
-✔️ **Designing robust APIs** that power modern web and mobile applications.  
-✔️ **Optimizing databases and queries** to ensure efficiency and scalability.  
-✔️ **Implementing security best practices** to safeguard applications.  
+### My Expertise:  
+✔️ **Building modern web applications** with React and Next.js.  
+✔️ **Developing and optimizing RESTful APIs** using Node.js and Express.  
+✔️ **Working with databases** like MongoDB and MySQL for efficient data management.  
+✔️ **Implementing authentication and security best practices** to protect applications.  
 
-Throughout my career, I’ve worked on **SaaS products, large-scale applications, and startup projects**, handling **end-to-end backend development, deployment, and optimization**.  
+I have experience in developing **scalable and maintainable web applications**, working with **frontend and backend technologies**, and continuously learning to improve my skills.  
 
-> **My goal is to build efficient, maintainable, and scalable backend systems that power great products.**  
+> **My goal is to create powerful, efficient, and user-friendly web applications.**  
 
----
+---  
 
 ## 📬 Contact & Connect  
 
-🔗 **LinkedIn:** [Sukhrob Nurali](https://www.linkedin.com/in/sukhrob-nurali/)  
-📢 **YouTube:** [@SuxrobNurali](https://www.youtube.com/@SuxrobNurali)  
-💬 **Telegram:** [@suxrobnurali](https://t.me/suxrobnurali)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/zafar-ibrohimov-501025298/]  
+📢 **YouTube:** [#]  
+💬 **Telegram:** [https://t.me/Ibrohimov_Zafar]  
+
+---
+
+ 
