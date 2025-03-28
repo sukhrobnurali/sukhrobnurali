@@ -25,10 +25,9 @@ I have experience in developing **scalable and maintainable web applications**, 
 
 ---
 
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github.com/Ibrohimov-Zafar/Ibrohimov-Zafar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
