@@ -1,5 +1,4 @@
-Mana, README'ni MERN stack mutaxassisligiga moslab to‘g‘riladim:  
-
+ 
 ---
 
 # Fullstack Developer | MERN Specialist  
