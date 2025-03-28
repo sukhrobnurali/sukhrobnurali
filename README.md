@@ -18,6 +18,10 @@
 ✔️ **Developing and optimizing RESTful APIs** using Node.js and Express.  
 ✔️ **Working with databases** like MongoDB and MySQL for efficient data management.  
 ✔️ **Implementing authentication and security best practices** to protect applications.   
+I have experience in developing **scalable and maintainable web applications**, working with **frontend and backend technologies**, and continuously learning to improve my skills.  
+
+> **My goal is to create powerful, efficient, and user-friendly web applications.**  
+
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
