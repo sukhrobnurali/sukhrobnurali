@@ -33,5 +33,5 @@ I have experience in developing **scalable and maintainable web applications**, 
 💬 **Telegram:** [https://t.me/Ibrohimov_Zafar]  
 
 ---
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
  
