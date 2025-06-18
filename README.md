@@ -1,4 +1,4 @@
-<h1 align="center">Backend Developer | PHP & Laravel Specialist</h1>
+<h1 align="center">Senior Backend Developer | Python & AI Enthusiast</h1>
 
 <p align="center">
   <strong>Building Scalable, High-Performance, and Secure Backend Systems</strong><br>
@@ -9,7 +9,19 @@
 
 ## 👨‍💻 About Me
 
-👋 Hi, I'm **Sukhrob**, a **Backend Developer** with **5+ years of experience** in designing, building, and optimizing backend systems using **PHP, Laravel, and modern architectures**.  
+👋 Hi, I'm **Sukhrob**, a backend engineer with 5+ years of experience building scalable, high-performance systems. Currently diving deep into Python and AI/ML technologies at H&K, where I architect microservices handling millions of requests. 
+
+**Languages & Frameworks**
+- **Python**: FastAPI, Django, Flask, AsyncIO
+- **AI/ML**: LangChain, OpenAI API, RAG Systems, Vector Databases
+- **Databases**: PostgreSQL, MySQL, Redis, MongoDB
+- **DevOps**: Docker, Kubernetes, AWS, CI/CD
+
+### 🤖 Current Focus
+- Building AI agents and RAG systems
+- LLM integration and prompt engineering
+- Microservices architecture with Python
+- High-performance async Python applications
 
 I specialize in:  
 ✔️ **Building and scaling backend applications** for high-performance and reliability.  
