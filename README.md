@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-👋 Hi, I'm **Sukhrob**, a backend engineer with 5+ years of experience building scalable, high-performance systems. Currently diving deep into Python and AI/ML technologies at H&K, where I architect microservices handling millions of requests. 
+👋 Hi, I'm **Sukhrob**, a backend engineer with 6+ years of experience building scalable, high-performance systems. Currently diving deep into Python and AI/ML technologies at H&K, where I architect microservices handling millions of requests. 
 
 **Languages & Frameworks**
 - **Python**: FastAPI, Django, Flask, AsyncIO
