@@ -36,13 +36,6 @@ Hi, I’m **Sukhrob** — a PHP/Laravel backend engineer (6+ years) who designs 
 - **DevOps:** Docker, Nginx, GitHub Actions/GitLab CI, AWS/DigitalOcean, zero-downtime deploys
 - **Observability:** Sentry, ELK, Prometheus/Grafana; metrics-driven debugging
 
-### 🔭 Current Focus
-- Modular monoliths & microservices with Laravel 12
-- High-performance queries, caching layers, and queue-first designs
-- Robust API design (versioning, idempotency, pagination, error contracts)
-- Security hardening, secrets management, and observability
-- Laravel Octane/RoadRunner experiments for throughput where it makes sense
-
 I specialize in:  
 ✔️ **Designing & scaling backends** for high-load environments  
 ✔️ **Building robust APIs** that power web & mobile apps  
