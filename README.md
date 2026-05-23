@@ -11,7 +11,6 @@
 [![](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)]()
 [![](https://img.shields.io/badge/PostgreSQL-pgvector-336791?logo=postgresql&logoColor=white)]()
 
----
 
 ## 👨‍💻 About
 
@@ -22,7 +21,6 @@ AI/ML Engineer with 7 years of production engineering experience. I build intell
 - 🎓 **AI Educator:** [YouTube 17K+ subs](https://youtube.com/@SuxrobNurali) — teaching LLMs, RAG, agents, and production ML
 - 🌍 Based in Tashkent, Uzbekistan — open to remote/relocation
 
----
 
 ## 🛠 Tech Stack
 
