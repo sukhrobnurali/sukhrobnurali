@@ -39,7 +39,6 @@ AI/ML Engineer with 7 years of production engineering experience. I build intell
 **Backend & Data**
 `Python` `FastAPI` `Django` `AsyncIO` `PostgreSQL` `Redis` `Microservices`
 
----
 
 ## 📬 Connect
 
